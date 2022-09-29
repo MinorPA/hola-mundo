@@ -2,4 +2,4 @@
 mi primer repositorio
 
 autor Pablo
-Fecha: 29/09/22
+Fecha: 29/09/2022
